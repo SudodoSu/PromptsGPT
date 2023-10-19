@@ -5,7 +5,7 @@ import Provider from "@components/Provider";
 
 export const metadata = {
   title: "PromptsGPT",
-  description: "Discovere & share ChatGPT prompts",
+  description: "Discover & share ChatGPT prompts",
 };
 
 function RootLayout({ children }) {
